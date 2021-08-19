@@ -35,11 +35,12 @@ h2 {
 }
 
 main {
-  gap: 1rem;
+  gap: .6rem;
   margin: .6rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
+  padding: 1.5em;
 }
 
 main > figure {
