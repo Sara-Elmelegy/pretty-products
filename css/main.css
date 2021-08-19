@@ -10,3 +10,14 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+h2 {
+  font-family: Oswald, sans-serif;
+  margin: .25rem 0;
+  padding: .2rem;
+  color: #6f00e7;
+}
