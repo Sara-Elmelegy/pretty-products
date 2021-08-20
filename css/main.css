@@ -76,3 +76,11 @@ p {
   padding-right: 1.5em;
   margin: 1rem;
 }
+
+.share {
+  align-content: flex-end;
+}
+
+div {
+  justify-content: space-between;
+}
